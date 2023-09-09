@@ -1,0 +1,10 @@
+
+Controlador de usuario
+    Obtener usuarios
+        obtener playlist del usuario
+Controlador de artistas
+    obtener artistas
+        obtener musica y albums de los artistas
+controlador de contenido
+        Mostrar canciones de las playlist
+        agregar canciones a playlist
